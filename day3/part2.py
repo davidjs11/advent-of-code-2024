@@ -1,3 +1,5 @@
+# day3 - part2.py
+
 import re
 from sys import stdin
 

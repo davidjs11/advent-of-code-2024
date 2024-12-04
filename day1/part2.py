@@ -1,3 +1,5 @@
+# day1 - part2.py
+
 similarity = 0
 listA = []  # left list
 listB = []  # right list

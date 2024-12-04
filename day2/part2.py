@@ -1,3 +1,5 @@
+# day2 - part2.py
+
 from sys import stdin
 
 def check_levels(levels):

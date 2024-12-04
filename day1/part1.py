@@ -1,3 +1,5 @@
+# day1 - part1.py
+
 diff = 0
 listA = []  # left list
 listB = []  # right list
