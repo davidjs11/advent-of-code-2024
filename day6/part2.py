@@ -1,4 +1,4 @@
-# day6 - part1.py
+# day6 - part2.py
 
 from sys import stdin
 
